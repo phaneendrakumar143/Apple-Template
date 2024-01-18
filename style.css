@@ -1,0 +1,18 @@
+.phani
+{
+    margin-left: 10%;
+}
+.text{
+    color: grey;
+}
+.text:hover{
+    color:white;
+}
+ body{
+    overflow-x: hidden;
+ }
+
+ .card:hover
+ {
+    transform: scale(1.03);
+ }
